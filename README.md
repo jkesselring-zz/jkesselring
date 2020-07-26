@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I’m currently working on an Inventory Management System utilizing Laravel and AureliaJS.
-I’m currently learning React (finally)!
+- I’m currently working on an Inventory Management System utilizing Laravel and AureliaJS.
+
+- I’m currently learning React (finally)!
 
 <!--
 **jkesselring/jkesselring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
