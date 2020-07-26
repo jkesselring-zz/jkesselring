@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on an Inventory Management System utilizing Laravel and AureliaJS.
+- I’m currently working on an Inventory Management System utilizing Laravel and AureliaJS in addition to creating a personal web page.
 
 - I’m currently learning React (finally)!
 
