@@ -6,4 +6,6 @@
 
 - I’m currently diving into React
 
-Technologies I'm interested in: <a target="_blank" href="https://fast.design">Fast<img src="fast.svg" width="25" alt="Fast Design Logo"></a> - <a target="_blank" href="https://deno.land">Deno <img width="25" src="deno.svg" alt="Deno Logo"></a>
+Technologies I'm interested in:
+
+[Fast.design](https://fast.design) - [Deno](https://deno.land)
