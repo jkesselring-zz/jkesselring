@@ -6,4 +6,4 @@
 
 - I’m currently diving into React
 
-Technologies I'm interested in: [![Fast Design Logo](./fast.svg)](https://www.fast.design/) - [![Deno Logo](./deno.svg)](https://deno.land/)
+Technologies I'm interested in: [![Fast Design Logo](fast.svg)](https://www.fast.design/) - [![Deno Logo](deno.svg)](https://deno.land/)
