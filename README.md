@@ -7,6 +7,7 @@
 Technologies I'm interested in: 
 - [Fast.design](https://fast.design)
 - [Deno](https://deno.land)
+- [Rome](https://romefrontend.dev/)
 
 I’m currently diving into:
 - React
