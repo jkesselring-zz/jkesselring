@@ -6,4 +6,4 @@
 
 - I’m currently diving into React
 
-Technologies I'm interested in: [![Fast Design Logo](fast.svg)](https://www.fast.design/) - [![Deno Logo](deno.svg)](https://deno.land/)
+Technologies I'm interested in: <a target="_blank" href="https://fast.design">Fast<img src="fast.svg" width="25" alt="Fast Design Logo"></a> - <a target="_blank" href="https://deno.land">Deno <img width="25" src="deno.svg" alt="Deno Logo"></a>
