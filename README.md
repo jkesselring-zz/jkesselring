@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-- I’m currently working on an Inventory Management System utilizing Laravel and AureliaJS.
+- I’m currently working on an Inventory Management System utilizing [Laravel](https://laravel.com) and [AureliaJS](https://aurelia.io).
 
 - Additionally, I am working on creating/updating my personal web page.
 
-- I’m currently diving into React
+Technologies I'm interested in: 
+- [Fast.design](https://fast.design)
+- [Deno](https://deno.land)
 
-Technologies I'm interested in:
+I’m currently diving into:
+- React
 
-[Fast.design](https://fast.design) - [Deno](https://deno.land)
+Languages on the horizon:
+- Go
+- Rust
